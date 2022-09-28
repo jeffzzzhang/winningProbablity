@@ -1,5 +1,5 @@
 # winningProbablity
-This is the math modeling part of Chap 4 in my Ph.D. thesis, i.e., 
+This is the math modeling part of Chap 4 in my thesis, i.e., 
 Fast propagation of messages in VANETs and the impact of vehicles as obstacles on signal propagation. 
 
 The model is implemented in VC++. 
